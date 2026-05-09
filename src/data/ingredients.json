@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "barcode": "5000159461122",
+      "name": "Classic Peanut Butter",
+      "brand": "NuttyWays",
+      "category": "Snacks",
+      "ingredients": ["Peanuts", "Palm Oil", "Sugar", "Salt"]
+    },
+    {
+      "id": "2",
+      "barcode": "4008400403527",
+      "name": "Milk Chocolate Bar",
+      "brand": "SweetCo",
+      "category": "Desserts",
+      "ingredients": ["Sugar", "Cocoa Butter", "Whole Milk Powder", "Cocoa Mass", "Soy Lecithin"]
+    },
+    {
+      "id": "3",
+      "barcode": "1234567890",
+      "name": "Whole Grain Bread",
+      "brand": "Baker's Pride",
+      "category": "Meals",
+      "ingredients": ["Whole Wheat Flour", "Water", "Yeast", "Salt", "Honey"]
+    },
+    {
+      "id": "4",
+      "barcode": "0987654321",
+      "name": "Almond Milk",
+      "brand": "PurePlant",
+      "category": "Drinks",
+      "ingredients": ["Water", "Almonds", "Calcium Carbonate", "Sea Salt"]
+    },
+    {
+      "id": "5",
+      "barcode": "1122334455",
+      "name": "Oatmeal Cookies",
+      "brand": "Grandma's",
+      "category": "Snacks",
+      "ingredients": ["Oats", "Flour", "Butter", "Sugar", "Eggs", "Milk", "Raisins"]
+    }
+  ],
+  "commonAllergens": [
+    "Peanuts", "Milk", "Eggs", "Tree Nuts", "Soy", "Wheat", "Fish", "Shellfish", "Gluten", "Sesame"
+  ]
+}

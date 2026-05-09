@@ -1,0 +1,6 @@
+{
+  "name": "AllergyGuard",
+  "description": "A safety-focused companion for managing food allergies with scanning, safe food suggestions, and emergency tools.",
+  "requestFramePermissions": ["camera", "notifications"],
+  "majorCapabilities": []
+}
